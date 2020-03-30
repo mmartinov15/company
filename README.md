@@ -1,1 +1,1 @@
-# Company Website crteated in SASS#
+# Company Website created with SASS
