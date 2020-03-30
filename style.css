@@ -507,7 +507,7 @@ body {
   display: block; }
   @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em), only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em), only screen and (min-width: 125em) {
     .section-contact {
-      background-image: url("src/images/Layer 8@2x.jpg"); } }
+      background-image: url("Layer 8@2x.jpg"); } }
 
 @media only screen and (max-width: 37.5em) {
   .contact__subtitle {
@@ -526,7 +526,7 @@ header {
 .content {
   height: 100vh;
   max-width: 100%;
-  background-image: url("/src/images/Layer 1.jpg");
+  background-image: url("Layer 1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 0;
@@ -542,7 +542,7 @@ header {
       text-align: center; } }
   @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em), only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em), only screen and (min-width: 125em) {
     .content {
-      background-image: url("/src/images/Layer 1@2x.jpg");
+      background-image: url("Layer 1@2x.jpg");
       text-align: center; } }
 
 .section-about {
