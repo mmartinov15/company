@@ -158,7 +158,7 @@ body {
   height: auto; }
   .footer__content > * {
     top: 45%;
-    margin-top: 5.5%;
+    margin-top: 0.5%;
     transform: translate(44%, 5%);
     color: var(--color-gray-6);
     display: table-cell; }
